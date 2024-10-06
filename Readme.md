@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a **Programmer** and a CompSci student in Texas.
+I'm a **Programmer** and a CompEng student in Texas.
 
 Website: (Under Construction)
 <br>
