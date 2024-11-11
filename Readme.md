@@ -12,6 +12,6 @@ Website: (Under Construction)
 <br>
 Twitter: https://www.twitter.com/hazrtine
 
-My profile pic is from [this wondrous piece of work.](https://en.wikipedia.org/wiki/The_Masterful_Cat_Is_Depressed_Again_Today) Take a look.
+My profile pic is from [this wondrous piece of work.](https://en.wikipedia.org/wiki/Red_Cat_Ramen) Take a look.
 
 ![Profile Visits](https://hit.yhype.me/github/profile?user_id=82059435)
