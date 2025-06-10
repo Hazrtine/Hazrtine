@@ -8,7 +8,7 @@
 
 I'm a **Programmer** and a CompEng student in Texas.
 
-Website: (Under Construction)
+Website: https://hazrtine.construction
 <br>
 Twitter: https://www.twitter.com/hazrtine
 
