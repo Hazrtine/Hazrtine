@@ -13,5 +13,3 @@ Website: https://hazrtine.dev
 Twitter: https://www.twitter.com/hazrtine
 
 My profile pic is from [this wondrous piece of work.](https://en.wikipedia.org/wiki/Red_Cat_Ramen) Take a look.
-
-![](https://hit.yhype.me/github/profile?account_id=82059435)
